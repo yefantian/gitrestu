@@ -4,4 +4,8 @@ keyi
 zhendida
 haode
 kuai
-dian1
+<<<<<<< HEAD
+dian
+=======
+dian
+>>>>>>> feature1
